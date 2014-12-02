@@ -5,7 +5,7 @@
 // http://www.reprap.org/wiki/Prusa_Mendel
 // http://prusamendel.org
 
-extension = 20;
+extension = 27;
 
 module z_top_base(){
  translate([0,-5,0]) cube([8,45,16]); // plate touching the base
